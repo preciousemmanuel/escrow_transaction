@@ -1,0 +1,1 @@
+export const ON_CREATE_WALLET:string="ON_CREATE_WALLET";
